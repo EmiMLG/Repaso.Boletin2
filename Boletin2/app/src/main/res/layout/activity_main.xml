@@ -14,7 +14,12 @@
         android:id="@+id/activity_main___btn_main_activity"
         android:text="Button Activity Main"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        />
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"/>
+
+    <EditText
+        android:id="@+id/activity_main___edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
 
 </RelativeLayout>
